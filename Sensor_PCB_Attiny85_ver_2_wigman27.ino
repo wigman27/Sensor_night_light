@@ -1,4 +1,9 @@
 // test of the attiny  for the sensor widget.
+// wigman AUG14
+// $ver 1.01
+// A PCB board with a movement sensor, ldr and mosfet
+// Typically used for lighting
+
 
 #include <avr/wdt.h>                   // include the watchdog timer library
 #include <avr/io.h>                    //include standard AVR io library
